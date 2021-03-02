@@ -1,1 +1,1 @@
-# privacypolicybillLocker
+# PrivacyPolicyBillLocker
